@@ -4,11 +4,11 @@
 
 ---
 
-![Contributors](https://img.shields.io/github/contributors/IIITLucknowSWEngg/Assignment)
+![Contributors](https://img.shields.io/github/contributors/IIITLucknowSWEngg/CSAICSBTeam017)
 ![Forks](https://img.shields.io/github/forks/IIITLucknowSWEngg/Assignment?style=social)
 ![Stargazers](https://img.shields.io/github/stars/IIITLucknowSWEngg/Assignment?style=social)
-![Issues](https://img.shields.io/github/issues/IIITLucknowSWEngg/Assignment)
-![MIT License](https://img.shields.io/github/license/IIITLucknowSWEngg/Assignment)
+![Issues](https://img.shields.io/github/issues/IIITLucknowSWEngg/CSAICSBTeam017)
+![MIT License](https://img.shields.io/github/license/IIITLucknowSWEngg/CSAICSBTeam017)
 
 ---
 
